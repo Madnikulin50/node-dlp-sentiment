@@ -1,0 +1,23 @@
+{
+  "name": "node-dlp-sentiment",
+  "description": "Node-DLP sentiment analysis",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Madnikulin50/node-dlp-sentiment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madnikulin50/node-dlp-sentiment/issues"
+  },
+  "homepage": "https://github.com/Madnikulin50/node-dlp-sentiment",
+  "devDependencies": {
+	  "csv-streamify":"latest"
+  }
+}
